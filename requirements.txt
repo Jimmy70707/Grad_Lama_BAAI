@@ -1,0 +1,24 @@
+# Core
+streamlit
+
+# Embeddings
+sentence-transformers==2.6.1
+tokenizers
+
+# LangChain Ecosystem
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+
+# Vector Store
+faiss-cpu>=1.7.4,<2.0.0
+
+# PDF Parsing
+pypdf
+
+# Environment Management
+python-dotenv
+
+# Hugging Face hub access (for future loading, not local models)
+huggingface-hub
