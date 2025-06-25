@@ -1,13 +1,11 @@
 # Core
 streamlit
-# Torch + Embeddings
-torch==2.3.0
+
+# Embeddings
 sentence-transformers==2.6.1
-transformers
 tokenizers
 
 # LangChain Ecosystem
-langchain
 langchain-core
 langchain-community
 langchain-text-splitters
@@ -22,9 +20,5 @@ pypdf
 # Environment Management
 python-dotenv
 
-# Scientific Stack
-numpy
-scipy
-
-# Hugging Face
+# Hugging Face hub access (for future loading, not local models)
 huggingface-hub
