@@ -37,7 +37,7 @@ class EmbeddingsWrapper(Embeddings):
 # Cache model loading
 @st.cache_resource
 def load_model():
-    model = SentenceTransformer("all-MiniLM-L6-v2")  # No .to(device) for Streamlit Cloud
+    model = SentenceTransformer("BAAI/bge-small-en-v1.5")  # No .to(device) for Streamlit Cloud
     return model
 
 # Load model and wrapper
