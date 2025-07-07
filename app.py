@@ -45,7 +45,7 @@ sentence_transformer_model = load_model()
 embeddings = EmbeddingsWrapper(sentence_transformer_model)
 
 # Streamlit UI
-st.title("Conversational RAG With PDF Uploads and Chat History")
+st.title("Medical Chatbot With Chat History")
 st.write("Upload PDFs and chat with their content.")
 
 # Initialize Groq LLM
