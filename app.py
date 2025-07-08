@@ -46,7 +46,7 @@ embeddings = EmbeddingsWrapper(sentence_transformer_model)
 
 # Streamlit UI
 st.title("Medical Chatbot With Chat History")
-st.write("Upload PDFs and chat with their content.")
+st.write("Chat Now!")
 
 # Initialize Groq LLM
 try:
