@@ -65,8 +65,6 @@ AI/ML Engineer | Passionate about LLMs, NLP, and real-world AI applications
 
 📍 6 October, Egypt  
 
-📫 [![Email](https://img.shields.io/badge/Email-muhammed.gamal00%40gmail.com-red?style=flat-square&logo=gmail)](mailto:muhammed.gamal00@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammed-gamal-b0a347244)  
-[![GitHub](https://img.shields.io/badge/GitHub-Jimmy70707-181717?style=flat-square&logo=github)](https://github.com/Jimmy70707)
-
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammed.gamal00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-gamal-b0a347244)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Jimmy70707)
