@@ -5,6 +5,11 @@ An intelligent, RAG-powered chatbot designed to interpret health sensor readings
 This chatbot was developed as part of my **graduation project** and contributed to achieving an **A+ grade** in the Electronics & Communication Engineering program at **Helwan University**.
 
 ---
+## 🌐 Live Demo
+
+You can try the chatbot online here:
+
+🔗 [Click to Launch the AI Health Chatbot](https://lamasmart.streamlit.app/)
 
 ## 🧠 Overview
 
