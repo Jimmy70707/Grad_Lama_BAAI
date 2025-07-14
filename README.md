@@ -44,18 +44,18 @@ Follow these steps to get the chatbot up and running locally:
 git clone https://github.com/Jimmy70707/AI-Health-Chatbot.git
 cd AI-Health-Chatbot
 
-###2. Install dependencies
+### 2. Install dependencies
 Make sure you have Python 3.9+ installed, then run:
 pip install -r requirements.txt
 
-###3. Set up API keys
+### 3. Set up API keys
 Create a .env file in the root directory with the following content:
 GROQ_API_KEY=your_groq_api_key
 HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
 
 Replace your_groq_api_key and your_huggingface_token with your actual API keys.
 
-###4. Run the Streamlit app
+### 4. Run the Streamlit app
 streamlit run app.py
 
 👨‍💻 Author
