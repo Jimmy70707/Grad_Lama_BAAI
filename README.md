@@ -58,7 +58,7 @@ Replace your_groq_api_key and your_huggingface_token with your actual API keys.
 ### 4. Run the Streamlit app
 streamlit run app.py
 
-👨‍💻 Author
+### 👨‍💻 Author
 Mohamed Gamal AbdulRahim
 AI/ML Engineer | Passionate about LLMs, NLP, and real-world AI applications
 📍 6 October, Egypt
